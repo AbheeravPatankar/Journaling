@@ -1,0 +1,7 @@
+﻿  journal.c
+C:\Users\91878\source\repos\libjournaling\libjournaling\journal.c(70,3): warning C4013: 'memcpy' undefined; assuming extern returning int
+C:\Users\91878\source\repos\libjournaling\libjournaling\journal.c(87,25): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\91878\source\repos\libjournaling\libjournaling\journal.c(92,24): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\91878\source\repos\libjournaling\libjournaling\journal.c(92,24): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'void *'
+C:\Users\91878\source\repos\libjournaling\libjournaling\journal.c(77,8): warning C4133: 'initializing': incompatible types - from 'float *' to 'int *'
+  libjournaling.vcxproj -> C:\Users\91878\source\repos\libjournaling\x64\Debug\libjournaling.lib
